@@ -1,0 +1,12 @@
+int main()
+{
+	float number = 0;
+	
+	cout << "Enter a number: ";
+	cin >> number;
+	cout << endl;
+	
+	cout << "Your number times 2 equals: " << number * 2 << endl;
+	
+	return 0;
+}
